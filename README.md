@@ -1,4 +1,4 @@
-![Alt text](https://github.com/username/repo/blob/main/images/image.png)
+![Alt text](miniproject/IMG/초미니프로젝트-영화.png)
 
 
 데이터베이스를 활용하여 영화 정보를 관리하고, 이를 조회하는 방법을 익힘으로써 자바와 
