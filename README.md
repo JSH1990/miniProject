@@ -1,3 +1,5 @@
+![Alt text](https://github.com/username/repo/blob/main/images/image.png)
+
 
 데이터베이스를 활용하여 영화 정보를 관리하고, 이를 조회하는 방법을 익힘으로써 자바와 
 </br>
